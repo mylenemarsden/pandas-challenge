@@ -1,0 +1,8 @@
+There are a total of 15 schools in the local area, with 39,170 students and a combined budget of $24,649,428. The total number of students at each school varies, which is proportionate to the total budget.
+
+Griffin High School, Cabrera High School, Bailey High School, Wright High School, and Rodriguez High School all achieved an overall passing rate of between 79% and 81%, making them the schools with the highest overall passing percentages overall. Whereas the schools with the lowest percentages include Hernandez High School, Huang High School, Johnson High School, Wilson High School, and Ford High School, all of which have an overall passing rate between 66% and 67%.
+
+When comparing schools of different sizes, the data reveals that those with less number of students had a higher overall passing percentage. This comparison indicated that schools with fewer students (<1000 students) had a passing rate of 79%, while schools with a larger number of students (2000 to 5000 students) had a passing rate of 70%.
+In addition, the data indicates that government schools have a lower passing percentage than independent schools, with 70% and 76% respectively.
+
+
